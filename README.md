@@ -1,2 +1,3 @@
 # PIR_score_voies_python
-Code python du projet 
+Projet PIR 2022 ENSG
+
